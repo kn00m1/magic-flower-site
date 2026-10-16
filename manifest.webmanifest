@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Magic Flower Ao Nang",
+  "short_name": "Magic Flower",
+  "description": "Neon night garden in Ao Nang, Krabi: hours, directions and a Thai driver card that work offline.",
+  "start_url": "/visit/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#070A18",
+  "theme_color": "#070A18",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
